@@ -1,5 +1,6 @@
 # Euler_Problem_54
 My solution for Euler problem 54. Tried to focus and readability, although as a result performance suffered a little when compared to some other implementations.
+
 Original text from: https://projecteuler.net/problem=54
 
 # Poker hands
