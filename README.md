@@ -1,10 +1,9 @@
-# Euler_Problem_54
-My solution for Euler problem 54. Tried to focus and readability, although as a result performance suffered a little when compared to some other implementations.
+# Poker hands
+My solution for Euler problem 54 using plain Java 8. Tried to focus and readability, although as a result performance suffered a little when compared to some other implementations.
 
 Original text from: https://projecteuler.net/problem=54
 
-# Poker hands
-# Problem 54
+## Problem 54
 
  In the card game poker, a hand consists of five cards and are ranked, from
  lowest to highest, in the following way:
