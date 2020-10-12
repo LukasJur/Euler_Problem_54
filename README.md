@@ -67,6 +67,7 @@ Full House			Full House
 
 With Three Fours	with Three Threes
 
+
  The file, poker.txt, contains one-thousand random hands dealt to two players.
  Each line of the file contains ten cards (separated by a single space): the
  first five are Player 1's cards and the last five are Player 2's cards. You
